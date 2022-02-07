@@ -9,7 +9,8 @@
 # test8
 # Test9
 # Test10
-# Test 11
+# Test11
+# Test12
 This example shows how to package an algorithm for use with SageMaker. We have chosen a simple [scikit-learn][skl] implementation of decision trees to illustrate the procedure.
 
 SageMaker supports two execution modes: _training_ where the algorithm uses input data to train a new model and _serving_ where the algorithm accepts HTTP requests and uses the previously trained model to do an inference (also called "scoring", "prediction", or "transformation").
